@@ -1,7 +1,7 @@
-var fs = require('fs');
+// var fs = require('fs');
 // var path = require('path');
-var module = require('./06-module.js');
-console.log(module.sayTest());
+// var module = require('./06-module.js');
+// console.log(module.sayTest());
 // fs.readdir(process.argv[2], function callback(err, list) {
 //   var listOfFileNames = list;
 //   listOfFileNames.forEach(function(eachFile) {
@@ -10,3 +10,4 @@ console.log(module.sayTest());
 //     }
 //   });
 // });
+
